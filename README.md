@@ -1,4 +1,4 @@
-Be aware that this is a solution to the following question.
+Be aware that this is a solution to the following question. *(Does not include the unit)*
 
 According to legend, chess was invented by Grand Vizier Sissa Ben Dahir, and given as a gift to King Shirham of India. The king was so delighted that he offered him any reward he requested, provided that it sounded reasonable. The Grand Vizier requested the following: "Just one grain of wheat on the first square of a chessboard. Then put two on the second square, four on the next, then eight, and continue, doubling the number of grains on each successive square, until every square on the chessboard is reached."
 
