@@ -21,7 +21,9 @@ The total surface of Belgium is 30.528 km2. If we consider the volume taken up b
 Output
 The output of your program should look like the one shown below. In order not to give away the answers, we only show the first and last digit of each answer. Do not forget to write out the unit, separated from the number by a space.
 
+```
 1...5
 4...8 kg
 9...7 km
 7...5 m
+```
